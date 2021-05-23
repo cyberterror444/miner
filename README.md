@@ -1,0 +1,2 @@
+# miner
+mine miner
